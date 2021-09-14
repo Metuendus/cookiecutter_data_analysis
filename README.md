@@ -36,7 +36,7 @@ Usage
 Generate a new analysis directory using:
 
 ```
-cookiecutter gh:https://github.com/Metuendus/cookiecutter_data_analysis
+cookiecutter gh:Metuendus/cookiecutter_data_analysis
 ```
 
 
