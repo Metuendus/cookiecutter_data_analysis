@@ -36,7 +36,7 @@ Usage
 Generate a new analysis directory using:
 
 ```
-cookiecutter gh:Metuendus/cookiecutter-r-analysis
+cookiecutter gh:https://github.com/Metuendus/cookiecutter_data_analysis
 ```
 
 
@@ -72,6 +72,6 @@ Acknowledgements
 ----------------
 
 Much of this template is based on bdcaf's
-[cookiecutter-r-analysis](lazappi/cookiecutter-r-analysis)
+[cookiecutter-r-analysis](https://github.com/lazappi/cookiecutter-r-analysis)
 template.
 
